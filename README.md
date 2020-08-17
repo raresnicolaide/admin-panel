@@ -4,6 +4,7 @@ Simple admin panel using data from https://jsonplaceholder.typicode.com/. The ap
 1. information about users
 1. list of pictures
 1. list of posts
+Syled with CSS and Material-UI.
 
 ## Demo
 
