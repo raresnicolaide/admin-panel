@@ -1,15 +1,15 @@
-# React - Simple Admin panel
+# React - Admin panel
 
 Simple admin panel using data from https://jsonplaceholder.typicode.com/. The app makes a series of requests:
 1. information about users
-1. lsit of pictures
+1. list of pictures
 1. list of posts
 
 ## Demo
 
 ![Demonstration](demo.png)
 
-## Functionalitati
+## Functionalities
 
 * Click on 'Arata useri' - Shows the list of users
 * Click on 'Arata postari' - Shows the list of posts
